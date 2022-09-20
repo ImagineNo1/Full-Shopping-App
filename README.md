@@ -3,9 +3,11 @@ Welcome To my Full Shpping Project
 for using this project first download or clone the proeject in your divice then head over to backend folder make a file with name '.env' and make this 3 variables like this 
 
 
-  PORT= <Enter your port number for example 4000 >
-  MONGO_URI =  <Enter your MongoDB connection string and edit your username and password>
-  SECRET= <Enter a secret code it can be anything you want like this 'dadadadkweqhi1hi3u1' and never change it >
+  PORT=  ' Enter your port number for example 4000 '
+  
+  MONGO_URI =  ' Enter your MongoDB connection string and edit your username and password '
+  
+  SECRET=  ' Enter a secret code it can be anything you want like this 'dadadadkweqhi1hi3u1' and never change it '
 
 
 
